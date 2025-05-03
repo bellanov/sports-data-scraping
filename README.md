@@ -11,8 +11,3 @@ The scripts are organized across a series of directories.
 | **data** | Scripts responsible for data scraping. |
 | **build** | Scripts responsible for aspects of the CICD process. |
 
-Summary of the available scripts and their usage. Details available within each script.
-
-| Script      | Description |
-| ----------- | ----------- |
-| **lint.sh** | Lint the codebase. |
